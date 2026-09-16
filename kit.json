@@ -1,6 +1,5 @@
 {
   "schemaVersion": 2,
-  "description": "Ülkelere göre gruplanmış doğrulanmış futbol forması ürün kodları kataloğu. Yapı: countries → teams → kits. Alman kulüpleri için 2000/01–2026/27 aralığındaki kamuya açık biçimde doğrulanabilen üretici kodları genişletilmiştir; doğrulanamayan sezonlara kod uydurulmamıştır.",
   "codeTypeNotes": {
     "default": "manufacturerProductCode",
     "officialStoreSku": "Official club-store stock code; may not appear on the manufacturer garment label.",
